@@ -5,6 +5,7 @@ import 'firebase/compat/firestore';
 const firebaseConfig = {
   apiKey: "AIzaSyArTLCxcSYYZIlk2NreyCIiMgEeoG6WcYE",
   authDomain: "clone-c9183.firebaseapp.com",
+  databaseURL: "https://clone-c9183.web.app/",
   projectId: "clone-c9183",
   storageBucket: "clone-c9183.appspot.com",
   messagingSenderId: "380220989420",
